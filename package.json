@@ -1,6 +1,6 @@
 {
   "name": "is-nil",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks if the given value is null or undefined",
   "main": "index.js",
   "scripts": {
@@ -30,12 +30,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/is-nil.git"
+    "url": "git+https://github.com/gearcase/is-nil.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/is-nil/issues"
+    "url": "https://github.com/gearcase/is-nil/issues"
   },
-  "homepage": "https://github.com/bubkoo/is-nil#readme",
+  "homepage": "https://github.com/gearcase/is-nil#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
