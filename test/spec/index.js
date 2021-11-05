@@ -1,12 +1,7 @@
-'use strict';
-
-var expect = require('chai').expect;
-
+import { expect } from 'chai';
+import isNil from '../../index.js';
 
 describe('is-nil', function () {
-
-  var isNil = require('../../');
-
   it('common test', function () {
     expect(isNil(null)).to.be.true;
     expect(isNil(void 0)).to.be.true;
