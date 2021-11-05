@@ -1,6 +1,1 @@
-'use strict';
-
-module.exports = function (obj) {
-
-  return obj == null;
-};
+export default x => x == null;

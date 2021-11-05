@@ -1,10 +1,11 @@
 {
-  "strict": true,
+  "strict": false,
   "node": true,
   "curly": true,
   "eqeqeq": true,
   "immed": true,
   "newcap": true,
+  "esversion": 6,
   "noarg": true,
   "sub": true,
   "undef": true,

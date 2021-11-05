@@ -1,3 +1,1 @@
-'use strict';
-
-require('./spec/');
+import './spec/index.js'
