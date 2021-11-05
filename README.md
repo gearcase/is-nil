@@ -1,6 +1,6 @@
 # is-nil
 
-> Checks if the given value is null or undefined. 
+> Checks if the given value is null or undefined.
 
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/gearcase/is-nil/blob/master/LICENSE)
 
@@ -11,14 +11,14 @@
 ## Install
 
 ```
-$ npm install --save is-nil 
+$ npm install --save is-nil
 ```
 
 
 ## Usage
 
 ```js
-var isNil = require('is-nil');
+import isNil from 'is-nil';
 
 isNil(null);     // => true
 isNil(void 0);   // => true
